@@ -1,0 +1,25 @@
+{
+  "_comment": "Every REPLACE_ value must be filled with verified information from the real hotel site; do not invent hotel details.",
+  "hotel_name": "REPLACE_HOTEL_NAME",
+  "tagline": "REPLACE_TAGLINE",
+  "address": "REPLACE_ADDRESS",
+  "phone": "REPLACE_PHONE",
+  "whatsapp_number": "REPLACE_WHATSAPP_NUMBER",
+  "map_link": "REPLACE_MAP_LINK",
+  "hero_image": "REPLACE_HERO_IMAGE_URL",
+  "rooms": [
+    {
+      "name": "REPLACE_ROOM_NAME_1",
+      "description": "REPLACE_ROOM_DESCRIPTION_1",
+      "rate": "REPLACE_RATE_1",
+      "capacity": "REPLACE_CAPACITY_1",
+      "image": "REPLACE_PHOTO_URL_1"
+    }
+  ],
+  "gallery": [
+    "REPLACE_GALLERY_IMAGE_PATH_1",
+    "REPLACE_GALLERY_IMAGE_PATH_2"
+  ],
+  "booking_form_recipient_email": "REPLACE_BOOKING_EMAIL",
+  "footer_year": "REPLACE_FOOTER_YEAR"
+}
